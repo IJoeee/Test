@@ -1,4 +1,2 @@
-
-
-def Hello(name):
-    print(f"Hello {name} how are you?")
+def hello_world():
+    print("Hello, World!")
