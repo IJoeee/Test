@@ -1,4 +1,4 @@
-# main.py
+## main.py
 from Functions.module1.module1 import print_from_module1
 from Functions.module2.module2 import print_from_module2
 
